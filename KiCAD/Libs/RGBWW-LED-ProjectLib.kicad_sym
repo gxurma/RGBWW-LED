@@ -18,8 +18,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "H5050RGBWW-ZB-96427"
+			(at 0.762 -15.494 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Display_7Segment:KCSC02-105"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -77,7 +77,7 @@
 			(pin input line
 				(at -11.43 -2.54 0)
 				(length 2.54)
-				(name "W1-C"
+				(name "W1-A"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -95,7 +95,7 @@
 			(pin input line
 				(at -11.43 -5.08 0)
 				(length 2.54)
-				(name "R-C"
+				(name "R-A"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -113,7 +113,7 @@
 			(pin input line
 				(at -11.43 -7.62 0)
 				(length 2.54)
-				(name "G-C"
+				(name "G-A"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -131,7 +131,7 @@
 			(pin input line
 				(at -11.43 -10.16 0)
 				(length 2.54)
-				(name "B-C"
+				(name "B-A"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -149,7 +149,7 @@
 			(pin input line
 				(at -11.43 -12.7 0)
 				(length 2.54)
-				(name "W2-C"
+				(name "W2-A"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -164,10 +164,10 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 10.16 -12.7 180)
 				(length 2.54)
-				(name "W2-A"
+				(name "W2-C"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -182,10 +182,10 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 10.16 -10.16 180)
 				(length 2.54)
-				(name "B-A"
+				(name "B-C"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -200,10 +200,10 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 10.16 -7.62 180)
 				(length 2.54)
-				(name "G-A"
+				(name "G-C"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -218,10 +218,10 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 10.16 -5.08 180)
 				(length 2.54)
-				(name "R-A"
+				(name "R-C"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -236,10 +236,10 @@
 					)
 				)
 			)
-			(pin input line
+			(pin output line
 				(at 10.16 -2.54 180)
 				(length 2.54)
-				(name "W1-A"
+				(name "W1-C"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -258,9 +258,13 @@
 		(embedded_fonts no)
 	)
 	(symbol "WS2805"
-		(extends "H5050RGBWW-ZB-96427")
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at 0 0 0)
+			(at 0 2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -269,8 +273,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "WS2805"
+			(at 0.508 -1.524 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -309,6 +313,200 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "WS2805_1_1"
+			(rectangle
+				(start -8.89 0)
+				(end 8.89 -15.24)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type color)
+					(color 242 255 5 1)
+				)
+			)
+			(pin input line
+				(at -11.43 -2.54 0)
+				(length 2.54)
+				(name "OutR"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -11.43 -5.08 0)
+				(length 2.54)
+				(name "OutG"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -11.43 -7.62 0)
+				(length 2.54)
+				(name "OutB"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -11.43 -10.16 0)
+				(length 2.54)
+				(name "OutW1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -11.43 -12.7 0)
+				(length 2.54)
+				(name "OutW2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 11.43 -12.7 180)
+				(length 2.54)
+				(name "Gnd"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 11.43 -10.16 180)
+				(length 2.54)
+				(name "Dout"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 11.43 -7.62 180)
+				(length 2.54)
+				(name "Bin"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 11.43 -5.08 180)
+				(length 2.54)
+				(name "Din"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 11.43 -2.54 180)
+				(length 2.54)
+				(name "Vdd"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
 				)
 			)
 		)
