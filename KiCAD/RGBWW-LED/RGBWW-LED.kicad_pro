@@ -638,6 +638,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mount",
+          "name": "Mount",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -688,7 +694,7 @@
         "uuid": "d804f462-69d2-47e2-b324-83c6308da60a"
       }
     ],
-    "used_designators": "R31-32,J2,#PWR32-33",
+    "used_designators": "U1-2,U4-7,U9-11,U13-15,U17-19",
     "variants": []
   },
   "sheets": [

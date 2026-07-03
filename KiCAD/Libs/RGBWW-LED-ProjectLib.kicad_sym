@@ -95,7 +95,7 @@
 			(pin input line
 				(at -11.43 -5.08 0)
 				(length 2.54)
-				(name "R-A"
+				(name "G-A"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -113,7 +113,7 @@
 			(pin input line
 				(at -11.43 -7.62 0)
 				(length 2.54)
-				(name "G-A"
+				(name "R-A"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -203,7 +203,7 @@
 			(pin output line
 				(at 10.16 -7.62 180)
 				(length 2.54)
-				(name "G-C"
+				(name "R-C"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -221,7 +221,7 @@
 			(pin output line
 				(at 10.16 -5.08 180)
 				(length 2.54)
-				(name "R-C"
+				(name "G-C"
 					(effects
 						(font
 							(size 1.27 1.27)

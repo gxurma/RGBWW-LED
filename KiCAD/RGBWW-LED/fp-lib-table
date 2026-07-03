@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "LEDandDriver") (type "KiCad") (uri "${RGBWWDIR}/LEDandDriver.pretty") (options "") (descr ""))
+)
