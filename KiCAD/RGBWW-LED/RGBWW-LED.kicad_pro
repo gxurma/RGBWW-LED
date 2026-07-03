@@ -517,29 +517,7 @@
       "version": 5
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "/Bin": [
-        "Default"
-      ],
-      "/Bout": [
-        "Default"
-      ],
-      "/Din": [
-        "Default"
-      ],
-      "/Dout": [
-        "Default"
-      ],
-      "/LEDGruppe/Dout": [
-        "Default"
-      ],
-      "/LEDGruppe1/Dout": [
-        "Default"
-      ],
-      "/LEDGruppe2/Dout": [
-        "Default"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {

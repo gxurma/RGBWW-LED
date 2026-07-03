@@ -1119,7 +1119,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 96.52) (xy 104.14 96.52)
+			(xy 106.68 96.52) (xy 100.33 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1219,7 +1219,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 88.9) (xy 71.12 88.9)
+			(xy 78.74 88.9) (xy 71.12 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1249,7 +1249,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 91.44) (xy 71.12 91.44)
+			(xy 78.74 91.44) (xy 71.12 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1289,7 +1289,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 99.06) (xy 104.14 99.06)
+			(xy 106.68 99.06) (xy 100.33 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1329,7 +1329,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 93.98) (xy 71.12 93.98)
+			(xy 78.74 93.98) (xy 71.12 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1399,7 +1399,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 99.06) (xy 71.12 99.06)
+			(xy 78.74 99.06) (xy 71.12 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1449,7 +1449,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 91.44) (xy 104.14 91.44)
+			(xy 106.68 91.44) (xy 100.33 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1499,7 +1499,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 96.52) (xy 71.12 96.52)
+			(xy 78.74 96.52) (xy 71.12 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1579,7 +1579,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 88.9) (xy 104.14 88.9)
+			(xy 106.68 88.9) (xy 100.33 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1589,7 +1589,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 93.98) (xy 104.14 93.98)
+			(xy 106.68 93.98) (xy 100.33 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1717,7 +1717,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10R"
 			(at 135.89 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1906,7 +1906,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10R"
 			(at 135.89 93.98 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2174,7 +2174,7 @@
 	)
 	(symbol
 		(lib_id "RGBWWlIBS:H5050RGBWW-ZB-96427")
-		(at 93.98 86.36 0)
+		(at 90.17 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2185,7 +2185,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d6f77fd-75fb-4351-b1e2-b68462761335")
 		(property "Reference" "U7"
-			(at 93.345 82.55 0)
+			(at 89.535 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2195,7 +2195,7 @@
 			)
 		)
 		(property "Value" "H5050RGBWW-ZB-96427"
-			(at 93.345 85.09 0)
+			(at 89.535 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2205,7 +2205,7 @@
 			)
 		)
 		(property "Footprint" "LEDandDriver:LED_RGBWW_5050_10"
-			(at 93.98 86.36 0)
+			(at 90.17 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2216,7 +2216,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 86.36 0)
+			(at 90.17 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2227,7 +2227,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 86.36 0)
+			(at 90.17 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2621,7 +2621,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10R"
 			(at 135.89 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3264,7 +3264,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10R"
 			(at 135.89 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3359,7 +3359,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10R"
 			(at 135.89 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
