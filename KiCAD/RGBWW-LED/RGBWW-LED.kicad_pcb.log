@@ -1,0 +1,475 @@
+STEP fordítás Solid Edge formátumba
+Dátum: vasárnap,július 05,2026 10:35du.
+Forrásfájl: D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\RGBWW-LED.kicad_pcb.step
+Szerzõ: Pcbnew
+Szervezet: Kicad
+Forrás rendszer: KiCad to STEP converter
+
+Hardver:
+Processzor: AMD Ryzen 7 8845HS w/ Radeon 780M Graphics
+Operációs rendszer: Windows 10 Professional
+Telepített memória: 31.23 GB
+
+Szoftver információ
+Parasolid verzió: 34.0.153
+PSBodyShop verzió: 34.0.110
+Step fordító verzió: 9.0.92
+Solid Edge verzió: 222.00.02.003 x64
+
+STEP importálási beállítások
+Háromszögelt testek importálása: Be
+Importálás testellenõrzés: Ki
+Görbék importálása: Be
+Import NincsMentés: Be
+Több test importálása egyetlen alkatrészfájlként: Be
+Összevont felületek importálása: Be
+Boole testek importálása: Be
+Bázis alakelem létrehozása: Be
+Geometria egyszerûsítése: Be
+Görbék importálása: Be
+Importálási meghajtó: C:
+Összevont felületek importálása: Be
+Felületek importálása: Be
+Importálási kimeneti útvonal: D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED
+Importálási alapértelmezett kimeneti útvonal engedélyezése: Be
+PMI importálás: Ki
+Beolvasás belsõ komponensként: Ki
+Útvonal importálása: 
+
+Fordítás Parasolid adattípusokba...
++Szerelés kezdete: 1
++Solid Edge szerelés készítése D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\RGBWW-LED.kicad_pcb.asm
+|--+Szerelés kezdete: 2
+|--+Solid Edge szerelés készítése D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm
+|  |--+Solid Edge alkatrész készítése D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.par
+|--+Összes alkatrész :  2
+|--+Szerelések: 0
+|--+Testek: 2
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+Solid Edge szerelés készítése D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm
+|  |--+Solid Edge alkatrész készítése D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.par
+|--+Összes alkatrész :  2
+|--+Szerelések: 0
+|--+Testek: 2
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+Solid Edge szerelés készítése D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\PinHeader_1x04_P2.54mm_Horizontal.asm
+|  |--+Solid Edge alkatrész készítése D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\PinHeader_1x04_P254mm_Horizontal.par
+|--+Összes alkatrész :  2
+|--+Szerelések: 0
+|--+Testek: 2
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\PinHeader_1x04_P2.54mm_Horizontal.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\C_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Szerelés kezdete: 2
+|--+A(z) D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\R_0603_1608Metric.asm fájl újra felhasználása
+|--+Összes alkatrész :  0
+|--+Szerelések: 0
+|--+Testek: 0
+|--+Felületek:  0
+|--+Szerelés vége: 2
+|--+Solid Edge alkatrész készítése D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\RGBWW-LED_silkscreen.par
+|--+Solid Edge alkatrész készítése D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\RGBWW-LED_soldermask.par
+|--+Solid Edge alkatrész készítése D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\RGBWW-LED_soldermask_0.par
+|--+Solid Edge alkatrész készítése D:\Dokumentumok\git\Kembris\RGBWW-LED\KiCAD\RGBWW-LED\RGBWW-LED_PCB.par
++Összes alkatrész :  945
++Szerelések: 3
++Testek: 2
++Felületek:  940
++Szerelés vége: 1
+Fordítási folyamat befejezõdött
+A fordításhoz és poszt processzáláshoz szükséges teljes idõ:00 : 00 : 06
