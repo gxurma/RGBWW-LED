@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "RGBWW-LED-ProjectLib") (type "KiCad") (uri "${RGBWWDIR}/RGBWW-LED-ProjectLib.kicad_sym") (options "") (descr ""))
+)
