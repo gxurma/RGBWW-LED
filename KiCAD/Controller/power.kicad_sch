@@ -1343,6 +1343,12 @@
 		(uuid "0e69b305-7cc8-4374-af49-c0c2d7bec70a")
 	)
 	(junction
+		(at 78.74 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "103a3f16-7dd0-4195-ba73-70d092587496")
+	)
+	(junction
 		(at 123.19 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1365,12 +1371,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b2f00ac-6a49-48d9-9975-233d77caad0a")
-	)
-	(junction
-		(at 78.74 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "46aef32a-9823-4c3c-9cb1-1ec5f23a4205")
 	)
 	(junction
 		(at 93.98 63.5)
@@ -1406,7 +1406,7 @@
 		(at 179.07 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "79e45db9-d256-4250-bafd-a85d61e34af1")
+		(uuid "7586454d-43f7-41ef-9465-a46d01a3d06b")
 	)
 	(junction
 		(at 180.34 55.88)
@@ -1445,10 +1445,10 @@
 		(uuid "c48e03e6-192e-4d0c-a9b4-9b134c886866")
 	)
 	(junction
-		(at 78.74 81.28)
+		(at 78.74 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c76f6645-12ae-4cd3-9700-fa172c688d00")
+		(uuid "fd11b691-9481-4a4d-86eb-cea34865216e")
 	)
 	(wire
 		(pts
@@ -2153,87 +2153,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 93.98 72.39 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1928a2fb-9f73-419c-a772-fb0dbb416fc2")
-		(property "Reference" "C4"
-			(at 96.012 69.088 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 94.996 74.93 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 94.9452 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 93.98 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 93.98 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4883e233-78a3-480d-aa49-ae16978b7831")
-		)
-		(pin "2"
-			(uuid "cb68e4e3-4c01-4932-8fbc-3c663f31c325")
-		)
-		(instances
-			(project "Controller"
-				(path "/e565ff8c-f462-453f-a04b-bec4caf43425/16ed7761-6b06-410c-968e-579b4b796c80"
-					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 137.16 52.07 0)
 		(unit 1)
 		(body_style 1)
@@ -2242,7 +2161,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1ab8367d-c294-4c9f-88fb-39e626df5b0f")
 		(property "Reference" "C3"
 			(at 140.97 50.7999 0)
@@ -2277,7 +2195,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663"
 			(at 137.16 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -2289,6 +2207,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 137.16 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Umax" "50V"
+			(at 142.494 49.276 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 137.16 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 137.16 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 137.16 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -2452,7 +2413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "LEDandDriver:R_0603_1608Metric_LedPrj"
 			(at 156.972 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -2690,7 +2651,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "LEDandDriver:R_0603_1608Metric_LedPrj"
 			(at 156.972 62.23 90)
 			(hide yes)
 			(show_name no)
@@ -2899,6 +2860,130 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 93.98 72.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "752d443f-9b11-4f72-939f-3e2d417d9b09")
+		(property "Reference" "C4"
+			(at 88.392 72.136 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 88.138 74.422 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 94.9452 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663"
+			(at 93.98 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 93.98 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Umax" "50V"
+			(at 91.948 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 93.98 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 93.98 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
+			(at 93.98 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b1c21152-5dc2-450b-b823-da55e223f28b")
+		)
+		(pin "2"
+			(uuid "9d09400a-a74b-468c-b487-8cc6a57ef206")
+		)
+		(instances
+			(project "Controller"
+				(path "/e565ff8c-f462-453f-a04b-bec4caf43425/16ed7761-6b06-410c-968e-579b4b796c80"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 179.07 78.74 0)
 		(unit 1)
@@ -2998,7 +3083,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CL31A107MQHNNNE 100uF"
+		(property "Value" "100u"
 			(at 176.784 71.882 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3043,6 +3128,27 @@
 			)
 		)
 		(property "Umax" "6,3V"
+			(at 175.514 69.85 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "CL31A107MQHNNNE "
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung"
 			(at 179.07 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -3070,6 +3176,130 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 100.33 72.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "99a4f4a0-a4d0-4410-90e7-f0503978ffdf")
+		(property "Reference" "C5"
+			(at 101.6 70.612 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 100.584 74.676 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 101.2952 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663"
+			(at 100.33 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 100.33 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Umax" "50V"
+			(at 102.362 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
+			(at 100.33 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 100.33 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
+			(at 100.33 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "52b7510a-2470-4600-a1a6-240d70362b43")
+		)
+		(pin "2"
+			(uuid "ded72f8f-78a4-401f-b26f-b9a47fbc714f")
+		)
+		(instances
+			(project "Controller"
+				(path "/e565ff8c-f462-453f-a04b-bec4caf43425/16ed7761-6b06-410c-968e-579b4b796c80"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 187.96 67.31 0)
 		(unit 1)
 		(body_style 1)
@@ -3078,7 +3308,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9fb9769b-0716-4dc9-8755-9a01cb27db16")
 		(property "Reference" "C8"
 			(at 191.77 66.0399 0)
@@ -3091,7 +3320,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CL31A107MQHNNNE 100uF"
+		(property "Value" "100u"
 			(at 191.77 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3136,6 +3365,27 @@
 			)
 		)
 		(property "Umax" "6,3V"
+			(at 191.516 70.866 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "CL31A107MQHNNNE "
+			(at 187.96 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung"
 			(at 187.96 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -3183,7 +3433,7 @@
 				)
 			)
 		)
-		(property "Value" "744314101"
+		(property "Value" "10u"
 			(at 147.32 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3204,7 +3454,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/744314101.pdf"
 			(at 147.32 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -3217,6 +3467,28 @@
 		)
 		(property "Description" "Power Inductors - SMD WE-HCI 10uH 3.5A DCR=33mOhms AEC-Q200"
 			(at 147.32 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Würth"
+			(at 147.32 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "744314101"
+			(at 147.32 60.96 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3331,7 +3603,7 @@
 		(dnp no)
 		(uuid "d5e52af8-02b5-4dc6-9981-9009856fff57")
 		(property "Reference" "C1"
-			(at 82.55 71.1199 0)
+			(at 79.756 69.596 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3341,8 +3613,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "UMK325BJ106MM-T 10u"
-			(at 69.088 76.962 0)
+		(property "Value" "10u"
+			(at 79.756 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3354,6 +3626,7 @@
 		)
 		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 79.756 84.582 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3362,7 +3635,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/parts/2nd/Capacitors/Multilayer_Ceramic_Capacitors_MLCC_SMD_SMT_2929"
 			(at 78.74 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -3385,6 +3658,27 @@
 			)
 		)
 		(property "Umax" "50V"
+			(at 76.708 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 78.74 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "CL31A106KBHNNNE"
 			(at 78.74 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -3405,87 +3699,6 @@
 			(project "Controller"
 				(path "/e565ff8c-f462-453f-a04b-bec4caf43425/16ed7761-6b06-410c-968e-579b4b796c80"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 100.33 72.39 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d6a6b452-9c3f-43a5-a259-492b05816012")
-		(property "Reference" "C5"
-			(at 101.854 69.088 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 101.092 74.676 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 101.2952 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 100.33 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 100.33 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f1c6e4bb-932e-4fcd-b6cb-00a36ef6bf0b")
-		)
-		(pin "2"
-			(uuid "9ebb5258-b828-44d4-9e17-bba84110fd04")
-		)
-		(instances
-			(project "Controller"
-				(path "/e565ff8c-f462-453f-a04b-bec4caf43425/16ed7761-6b06-410c-968e-579b4b796c80"
-					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -3581,7 +3794,7 @@
 		(dnp no)
 		(uuid "e7971097-235a-4ae7-924e-ba7f5ac215b1")
 		(property "Reference" "C6"
-			(at 68.58 71.1199 0)
+			(at 66.04 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3591,8 +3804,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "UMK325BJ106MM-T 10u"
-			(at 53.086 79.502 0)
+		(property "Value" "10u"
+			(at 58.928 74.676 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3604,6 +3817,7 @@
 		)
 		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 65.786 84.582 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3612,7 +3826,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/parts/2nd/Capacitors/Multilayer_Ceramic_Capacitors_MLCC_SMD_SMT_2929"
 			(at 64.77 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -3635,6 +3849,27 @@
 			)
 		)
 		(property "Umax" "50V"
+			(at 61.214 70.358 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 64.77 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "CL31A106KBHNNNE"
 			(at 64.77 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -3694,7 +3929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "LEDandDriver:R_0603_1608Metric_LedPrj"
 			(at 206.502 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -3877,6 +4112,28 @@
 			)
 		)
 		(property "Description" "3A step-down switching regulator, Adjustable Output Voltage, 5.5-48V Input Voltage, 850kHz, PowerSO-8"
+			(at 121.92 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "ST"
+			(at 121.92 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "ST1S14PHR"
 			(at 121.92 68.58 0)
 			(hide yes)
 			(show_name no)

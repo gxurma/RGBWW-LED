@@ -598,14 +598,68 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Manufacturer Part",
+          "name": "Manufacturer Part",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": true,
+          "label": "Umax",
+          "name": "Umax",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Field6",
+          "name": "Field6",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Leírás",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLCPCB",
+          "name": "JLCPCB",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
-      "sort_asc": true,
-      "sort_field": "Referencia"
+      "name": "",
+      "sort_asc": false,
+      "sort_field": "Manufacturer Part"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -648,7 +702,7 @@
         "uuid": "e565ff8c-f462-453f-a04b-bec4caf43425"
       }
     ],
-    "used_designators": "",
+    "used_designators": "C4-5,C9-14,D2,#PWR11-24,J6-7,R4-12",
     "variants": []
   },
   "sheets": [
