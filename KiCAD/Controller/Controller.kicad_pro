@@ -63,13 +63,24 @@
           "min_clearance": 0.5,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        },
+        {
+          "gap": 0.3,
+          "via_gap": 0.5,
+          "width": 0.3
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -203,7 +214,16 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.2,
+        0.25,
+        0.3,
+        0.5,
+        0.75,
+        1.0,
+        2.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -230,7 +250,20 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.3
+        },
+        {
+          "diameter": 1.0,
+          "drill": 0.5
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -651,7 +684,7 @@
           "group_by": false,
           "label": "JLCPCB",
           "name": "JLCPCB",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",
@@ -702,7 +735,7 @@
         "uuid": "e565ff8c-f462-453f-a04b-bec4caf43425"
       }
     ],
-    "used_designators": "U2",
+    "used_designators": "L2,#PWR27-30,D3-4,J8,R14-15,C15-16",
     "variants": []
   },
   "sheets": [
