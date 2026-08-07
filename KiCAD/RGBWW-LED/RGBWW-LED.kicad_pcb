@@ -3391,7 +3391,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C15"
-			(at -2.5 0.1 0)
+			(at 3 0.1 0)
 			(layer "F.SilkS")
 			(uuid "3eb735d7-3b0f-456e-84af-2a9a5b6c52d3")
 			(effects
@@ -4447,7 +4447,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R50"
-			(at -2.6 0.1 0)
+			(at 2.25 0.1 0)
 			(layer "F.SilkS")
 			(uuid "2ce9935c-bf30-40aa-8968-5ff3130a444c")
 			(effects
@@ -5624,7 +5624,7 @@
 		(descr "SOIC, 10 Pin (https://www.onsemi.com/pub/Collateral/751BQ.PDF)")
 		(tags "SOIC SO SOIC-10 NB")
 		(property "Reference" "U32"
-			(at 0 -3.4 0)
+			(at -2 -4 0)
 			(layer "F.SilkS")
 			(uuid "46397e80-b0aa-44a1-96ab-dba0936b06d5")
 			(effects
@@ -6725,7 +6725,7 @@
 		(descr "SOIC, 10 Pin (https://www.onsemi.com/pub/Collateral/751BQ.PDF)")
 		(tags "SOIC SO SOIC-10 NB")
 		(property "Reference" "U28"
-			(at 0 -1.75 0)
+			(at -2.25 -4 0)
 			(layer "F.SilkS")
 			(uuid "e83ff233-00d4-45bb-927d-7ebcfa72cc74")
 			(effects
@@ -7588,7 +7588,7 @@
 	(footprint "LEDandDriver:R_0603_1608Metric_LedPrj"
 		(layer "F.Cu")
 		(uuid "588a3e76-14fc-4477-bd75-da67a7d23c39")
-		(at 52.175 83 180)
+		(at 54.25 82.25 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R31"
@@ -8079,7 +8079,7 @@
 		(descr "SOIC, 10 Pin (https://www.onsemi.com/pub/Collateral/751BQ.PDF)")
 		(tags "SOIC SO SOIC-10 NB")
 		(property "Reference" "U20"
-			(at 0 -1.75 0)
+			(at -1.75 -4 0)
 			(layer "F.SilkS")
 			(uuid "d9c77433-a85a-45fa-8da8-a45dc6269b66")
 			(effects
@@ -9730,7 +9730,7 @@
 		(descr "SOIC, 10 Pin (https://www.onsemi.com/pub/Collateral/751BQ.PDF)")
 		(tags "SOIC SO SOIC-10 NB")
 		(property "Reference" "U16"
-			(at -0.25 -1.75 0)
+			(at -2 -4 0)
 			(layer "F.SilkS")
 			(uuid "733a324a-0c52-4b97-85bd-c1ccfffdefd6")
 			(effects
@@ -11305,7 +11305,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C16"
-			(at -2.5 0.1 90)
+			(at 0 -1.75 90)
 			(layer "F.SilkS")
 			(uuid "27798866-f0ec-4e4b-ac1c-e7d12bb9e0d9")
 			(effects
@@ -11729,7 +11729,7 @@
 		(descr "SOIC, 10 Pin (https://www.onsemi.com/pub/Collateral/751BQ.PDF)")
 		(tags "SOIC SO SOIC-10 NB")
 		(property "Reference" "U8"
-			(at 0 -1.5 0)
+			(at -2 -4 0)
 			(layer "F.SilkS")
 			(uuid "d078ec07-66ac-4f02-b370-c39a26d39b2c")
 			(effects
@@ -14264,11 +14264,11 @@
 	(footprint "Fiducial:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
 		(uuid "94ff8aff-43c1-42ad-b2e0-15c4c595cd45")
-		(at 55 83)
+		(at 51 84)
 		(descr "Fiducial, circular marking, 1mm bare copper, 2mm soldermask opening (Level A)")
 		(tags "fiducial")
 		(property "Reference" "F2"
-			(at 1.4 0.95 0)
+			(at 2 0 0)
 			(layer "F.SilkS")
 			(uuid "81072804-00d2-40c5-abd2-cd01fd276665")
 			(effects
@@ -15575,7 +15575,7 @@
 		(descr "SOIC, 10 Pin (https://www.onsemi.com/pub/Collateral/751BQ.PDF)")
 		(tags "SOIC SO SOIC-10 NB")
 		(property "Reference" "U12"
-			(at 0 -1.5 0)
+			(at -2 -4 0)
 			(layer "F.SilkS")
 			(uuid "1cbca575-1e01-4b99-8c40-be0ce9611acc")
 			(effects
@@ -15936,7 +15936,7 @@
 		(descr "SOIC, 10 Pin (https://www.onsemi.com/pub/Collateral/751BQ.PDF)")
 		(tags "SOIC SO SOIC-10 NB")
 		(property "Reference" "U24"
-			(at -0.25 -1.5 0)
+			(at -3 -4 0)
 			(layer "F.SilkS")
 			(uuid "39d9f068-825a-4ea8-a60e-e1d999646c98")
 			(effects
@@ -16771,7 +16771,7 @@
 		(descr "SOIC, 10 Pin (https://www.onsemi.com/pub/Collateral/751BQ.PDF)")
 		(tags "SOIC SO SOIC-10 NB")
 		(property "Reference" "U3"
-			(at -0.25 -1.5 0)
+			(at -2 -4 0)
 			(layer "F.SilkS")
 			(uuid "b19f3434-2581-424c-b40c-3962c4b93e00")
 			(effects
@@ -21637,7 +21637,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "(c) enGYneer (2026-7-5)"
+	(gr_text "(c) enGYneer ${CURRENT_DATE}"
 		(at 75.75 84.75 0)
 		(layer "F.SilkS")
 		(uuid "da8beac0-6780-437a-b3fb-9b9c4a93a806")
@@ -22817,60 +22817,44 @@
 		(uuid "fcb57711-b223-4d1b-9014-f8cd06192c5f")
 	)
 	(segment
-		(start 204.925 81.9)
-		(end 210.498004 81.9)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "Net-(U32-OutG)")
-		(uuid "3476b101-a3b2-423f-8de7-59eeb81e7df5")
-	)
-	(segment
-		(start 211.550001 80)
-		(end 211 80.550001)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "Net-(U32-OutG)")
-		(uuid "6fa490d2-c2df-4fe9-9bd4-cc08bb7df815")
-	)
-	(segment
-		(start 210.498004 81.9)
-		(end 210.25 81.9)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "Net-(U32-OutG)")
-		(uuid "8de1247b-d690-4ea6-aa91-a5e30c75878e")
-	)
-	(segment
-		(start 211 80.550001)
-		(end 211 81.398004)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "Net-(U32-OutG)")
-		(uuid "be3219a0-9ddf-426a-b510-7cae28884f93")
-	)
-	(segment
 		(start 204 82.825)
-		(end 204.925 81.9)
+		(end 204.825 82)
 		(width 0.25)
 		(layer "F.Cu")
 		(net "Net-(U32-OutG)")
-		(uuid "c9f011bf-d6f7-45d4-b749-28299d16ceed")
+		(uuid "9f06fc91-b913-4f91-b7c6-c6a739c7c3bd")
 	)
 	(segment
-		(start 212.3375 80)
-		(end 211.550001 80)
+		(start 211 82)
+		(end 211 80.874092)
 		(width 0.25)
 		(layer "F.Cu")
 		(net "Net-(U32-OutG)")
-		(uuid "d118c587-96b9-411f-a207-fc13d688eb6d")
+		(uuid "a0a5612c-154b-4cf3-8d83-b2d243920a8d")
 	)
 	(segment
-		(start 211 81.398004)
-		(end 210.498004 81.9)
+		(start 204.825 82)
+		(end 211 82)
 		(width 0.25)
 		(layer "F.Cu")
 		(net "Net-(U32-OutG)")
-		(uuid "d42c1fdf-beb0-476a-92e0-35f5aafa97f5")
+		(uuid "bcacba23-ba26-402c-9edc-589a73f5654e")
+	)
+	(segment
+		(start 211.874092 80)
+		(end 212.3375 80)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "Net-(U32-OutG)")
+		(uuid "c91b167a-d562-44bc-a6c5-8d5e821c42c0")
+	)
+	(segment
+		(start 211 80.874092)
+		(end 211.874092 80)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "Net-(U32-OutG)")
+		(uuid "d49ada10-52b6-4666-bd89-33df5b9a43ad")
 	)
 	(segment
 		(start 102 81.825)
@@ -23489,14 +23473,6 @@
 		(uuid "d6ef782c-f953-41c0-bb4b-41b83752cdb1")
 	)
 	(segment
-		(start 52 79.62)
-		(end 52 82.35)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "GND")
-		(uuid "02413d49-d51d-4fad-8e98-303567e8fb25")
-	)
-	(segment
 		(start 176.6625 83)
 		(end 176.6625 83.6625)
 		(width 0.75)
@@ -23529,12 +23505,12 @@
 		(uuid "2016911b-efef-483e-8796-f344a8cbf479")
 	)
 	(segment
-		(start 52 82.35)
-		(end 51.35 83)
+		(start 53.75 83)
+		(end 53.425 82.25)
 		(width 0.25)
 		(layer "F.Cu")
 		(net "GND")
-		(uuid "251f880f-bb8a-41b8-b4c1-62197b1b07ff")
+		(uuid "2c4246f3-884d-4627-b8cd-31891a3acead")
 	)
 	(segment
 		(start 99.75 77)
@@ -23617,14 +23593,6 @@
 		(uuid "65172ed5-6803-400f-bd9b-9450f0dc8907")
 	)
 	(segment
-		(start 51.35 83.45)
-		(end 51.8 83.9)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "GND")
-		(uuid "679c09aa-1492-42a2-b2bf-8bb4809a769b")
-	)
-	(segment
 		(start 140.775 77)
 		(end 140.775 77.775)
 		(width 0.75)
@@ -23681,14 +23649,6 @@
 		(uuid "8904ba68-49ce-4432-9018-98b191383d36")
 	)
 	(segment
-		(start 51.35 83)
-		(end 51.35 83.45)
-		(width 0.25)
-		(layer "F.Cu")
-		(net "GND")
-		(uuid "8a5723e1-be2f-4a35-8651-9967239a492d")
-	)
-	(segment
 		(start 182.775 77)
 		(end 182.775 77.775)
 		(width 0.75)
@@ -23703,6 +23663,14 @@
 		(layer "F.Cu")
 		(net "GND")
 		(uuid "8c95351a-86c0-4b5d-9210-cb54f85d3f21")
+	)
+	(segment
+		(start 52 80.825)
+		(end 53.425 82.25)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "93a83d15-84f0-48e4-88fd-0150c9543764")
 	)
 	(segment
 		(start 119.775 77)
@@ -23751,6 +23719,14 @@
 		(layer "F.Cu")
 		(net "GND")
 		(uuid "bd4fae90-7786-47ba-87b6-1ab9ae203ddc")
+	)
+	(segment
+		(start 52 79.62)
+		(end 52 80.825)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "GND")
+		(uuid "bf27b7bf-ffd5-46a3-b67a-ae305a3ce98d")
 	)
 	(segment
 		(start 56 77.775)
@@ -23873,7 +23849,7 @@
 		(uuid "4fac4dd8-c9e5-4094-9e28-ea3801f23297")
 	)
 	(via
-		(at 51.8 83.9)
+		(at 53.75 83)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -27033,12 +27009,12 @@
 		(uuid "1228654c-9f7c-49c3-863a-121a60d40814")
 	)
 	(segment
-		(start 54.8 81.2)
-		(end 53 83)
+		(start 54.8 80.35)
+		(end 54.8 81.2)
 		(width 0.25)
 		(layer "F.Cu")
 		(net "/Bout")
-		(uuid "13ad44e7-51be-4707-9071-cd7c33adc163")
+		(uuid "1eb19140-a53a-41d8-9967-87039b08758f")
 	)
 	(segment
 		(start 52 77.08)
@@ -27089,6 +27065,14 @@
 		(uuid "7d562e38-9313-4a6a-b374-90a1937c4ba3")
 	)
 	(segment
+		(start 54.8 81.2)
+		(end 55.075 81.475)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "/Bout")
+		(uuid "8e77d823-463d-4ba9-a3d9-52358edb1224")
+	)
+	(segment
 		(start 89.3 79.9)
 		(end 89.3 79.983884)
 		(width 0.25)
@@ -27105,12 +27089,12 @@
 		(uuid "d27110d4-18ed-449c-8d7d-53eecda53101")
 	)
 	(segment
-		(start 54.8 80.35)
-		(end 54.8 81.2)
+		(start 55.075 81.475)
+		(end 55.075 82.25)
 		(width 0.25)
 		(layer "F.Cu")
 		(net "/Bout")
-		(uuid "e98416a9-1462-40e4-aafe-dc15967fd14b")
+		(uuid "f7104b94-d96d-48dd-9220-c2dc070f21e4")
 	)
 	(segment
 		(start 91.066116 81.95)
