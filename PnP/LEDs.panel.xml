@@ -1,0 +1,24 @@
+<openpnp-panel name="LEDs.panel.xml" version="2.0">
+   <dimensions units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+   <placements/>
+   <children>
+      <object class="org.openpnp.model.BoardLocation" side="Top" id="Brd1[1,1]" file-name="/home/gyurma/Dokumentumok/PnP/kembris/RGBWW-LED/PnP/LEDs.board.xml" check-fiducials="false" locally-enabled="true">
+         <location units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+      </object>
+      <object class="org.openpnp.model.BoardLocation" side="Top" id="Brd1[2,1]" file-name="/home/gyurma/Dokumentumok/PnP/kembris/RGBWW-LED/PnP/LEDs.board.xml" check-fiducials="false" locally-enabled="true">
+         <location units="Millimeters" x="0.0" y="15.0" z="0.0" rotation="0.0"/>
+      </object>
+      <object class="org.openpnp.model.BoardLocation" side="Top" id="Brd1[3,1]" file-name="/home/gyurma/Dokumentumok/PnP/kembris/RGBWW-LED/PnP/LEDs.board.xml" check-fiducials="false" locally-enabled="true">
+         <location units="Millimeters" x="0.0" y="30.0" z="0.0" rotation="0.0"/>
+      </object>
+      <object class="org.openpnp.model.BoardLocation" side="Top" id="Brd1[4,1]" file-name="/home/gyurma/Dokumentumok/PnP/kembris/RGBWW-LED/PnP/LEDs.board.xml" check-fiducials="false" locally-enabled="true">
+         <location units="Millimeters" x="0.0" y="45.0" z="0.0" rotation="0.0"/>
+      </object>
+   </children>
+   <pseudo-placement-ids>
+      <string>Brd1[1,1]⇒F2</string>
+      <string>Brd1[4,1]⇒F2</string>
+      <string>Brd1[4,1]⇒F1</string>
+      <string>Brd1[1,1]⇒F1</string>
+   </pseudo-placement-ids>
+</openpnp-panel>

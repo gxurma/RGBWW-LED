@@ -1,0 +1,423 @@
+<openpnp-board version="1.1" name="LEDs.board.xml">
+   <dimensions units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+   <placements>
+      <placement version="1.4" side="Top" id="C1" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="107.6" y="5.7" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C2" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="90.0" y="8.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C3" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="69.0" y="8.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C4" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="86.75" y="5.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C5" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="48.0" y="8.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C6" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="65.75" y="5.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C7" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="27.0" y="8.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C8" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="44.5" y="5.7" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C9" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="6.0" y="8.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C10" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="24.5" y="4.725" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C11" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="111.0" y="8.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C12" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="128.75" y="5.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C13" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="132.0" y="8.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C14" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="149.0" y="5.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C15" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="152.0" y="8.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="C16" part-id="C_0603_1608Metric_LedPrj-1u" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="170.25" y="6.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="F1" part-id="Fiducial_1mm_Mask2mm-Fiducial" type="Fiducial" enabled="true" rank="0">
+         <location units="Millimeters" x="175.0" y="1.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="F2" part-id="Fiducial_1mm_Mask2mm-Fiducial" type="Fiducial" enabled="true" rank="0">
+         <location units="Millimeters" x="1.0" y="1.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="J1" part-id="PinHeader_1x04_P2.54mm_Horizontal-Conn_01x04" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="174.0" y="13.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="J2" part-id="PinHeader_1x04_P2.54mm_Horizontal-Conn_01x04" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="2.0" y="5.38" z="0.0" rotation="180.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="M1" part-id="MountingHole_2.2mm_M2-MountingHole" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="46.4" y="2.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="M2" part-id="MountingHole_2.2mm_M2-MountingHole" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="109.4" y="2.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R1" part-id="R_0603_1608Metric_LedPrj-4k7" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="107.25" y="8.0" z="0.0" rotation="180.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R2" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="90.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R3" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="92.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R4" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="94.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R5" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="96.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R6" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="98.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R7" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="69.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R8" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="71.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R9" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="73.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R10" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="75.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R11" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="77.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R12" part-id="R_0603_1608Metric_LedPrj-4k7" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="86.25" y="8.0" z="0.0" rotation="180.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R13" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="48.75" y="5.425" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R14" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="50.5" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R15" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="52.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R16" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="54.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R17" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="56.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R18" part-id="R_0603_1608Metric_LedPrj-4k7" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="65.0" y="8.0" z="0.0" rotation="180.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R19" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="27.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R20" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="29.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R21" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="31.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R22" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="33.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R23" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="35.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R24" part-id="R_0603_1608Metric_LedPrj-4k7" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="44.25" y="8.0" z="0.0" rotation="180.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R25" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="7.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R26" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="9.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R27" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="11.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R28" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="13.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R29" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="15.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R30" part-id="R_0603_1608Metric_LedPrj-4k7" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="23.25" y="8.0" z="0.0" rotation="180.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R31" part-id="R_0603_1608Metric_LedPrj-100R" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="4.25" y="2.75" z="0.0" rotation="180.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R32" part-id="R_0603_1608Metric_LedPrj-100R" type="Placement" enabled="false" rank="0">
+         <location units="Millimeters" x="10.175" y="1.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R33" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="111.8" y="5.6" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R34" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="113.4" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R35" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="115.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R36" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="117.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R37" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="119.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R38" part-id="R_0603_1608Metric_LedPrj-4k7" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="128.0" y="8.0" z="0.0" rotation="180.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R39" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="132.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R40" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="134.0" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R41" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="135.75" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R42" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="137.5" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R43" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="139.25" y="4.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R44" part-id="R_0603_1608Metric_LedPrj-4k7" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="148.65" y="7.65" z="0.0" rotation="180.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R45" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="152.0" y="3.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R46" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="154.0" y="3.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R47" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="156.0" y="3.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R48" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="158.0" y="3.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R49" part-id="R_0603_1608Metric_LedPrj-10R" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="160.0" y="3.0" z="0.0" rotation="-90.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="R50" part-id="R_0603_1608Metric_LedPrj-4k7" type="Placement" enabled="true" rank="0">
+         <location units="Millimeters" x="170.25" y="8.5" z="0.0" rotation="180.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U1" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="90.85" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U2" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="70.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U3" part-id="SOIC-10_3.9x4.9mm_P1mm-WS2805" type="Placement" enabled="true" rank="20">
+         <location units="Millimeters" x="103.0" y="4.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U4" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="49.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U5" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="28.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U6" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="7.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U7" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="98.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U8" part-id="SOIC-10_3.9x4.9mm_P1mm-WS2805" type="Placement" enabled="true" rank="20">
+         <location units="Millimeters" x="82.0" y="4.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U9" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="77.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U10" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="56.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U11" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="35.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U12" part-id="SOIC-10_3.9x4.9mm_P1mm-WS2805" type="Placement" enabled="true" rank="20">
+         <location units="Millimeters" x="61.0" y="4.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U13" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="14.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U14" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="105.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U15" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="84.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U16" part-id="SOIC-10_3.9x4.9mm_P1mm-WS2805" type="Placement" enabled="true" rank="20">
+         <location units="Millimeters" x="40.0" y="4.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U17" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="63.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U18" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="42.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U19" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="21.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U20" part-id="SOIC-10_3.9x4.9mm_P1mm-WS2805" type="Placement" enabled="true" rank="20">
+         <location units="Millimeters" x="19.75" y="4.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U21" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="112.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U22" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="119.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U23" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="126.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U24" part-id="SOIC-10_3.9x4.9mm_P1mm-WS2805" type="Placement" enabled="true" rank="20">
+         <location units="Millimeters" x="124.0" y="4.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U25" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="133.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U26" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="140.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U27" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="147.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U28" part-id="SOIC-10_3.9x4.9mm_P1mm-WS2805" type="Placement" enabled="true" rank="20">
+         <location units="Millimeters" x="144.25" y="4.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U29" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="154.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U30" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="161.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U31" part-id="LED_RGBWW_5050_10-H5050RGBWW-ZB-96427" type="Placement" enabled="true" rank="40">
+         <location units="Millimeters" x="168.0" y="12.05" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U32" part-id="SOIC-10_3.9x4.9mm_P1mm-WS2805" type="Placement" enabled="true" rank="20">
+         <location units="Millimeters" x="165.0" y="4.0" z="0.0" rotation="0.0"/>
+         <error-handling>Default</error-handling>
+      </placement>
+   </placements>
+   <fiducials/>
+   <solder-paste-pads/>
+</openpnp-board>
